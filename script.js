@@ -5,7 +5,7 @@ const CONFIG = {
   msg1: "Sinh nhật vui vẻ, tuổi mới người yêu mới",
   msg2: "Do dự trời tối mất!!!",
   places: ["Cho trời tối luôn", "Không quan tâm", "Đi dạo & ăn tối", "Không rảnh"],
-  webhookUrl: "http://localhost:5678/webhook/f6f30659-bb0b-4464-a83e-0506ce23f477"
+  webhookUrl: "https://n8n.vietqr.vn/webhook/a70b1796-351a-4242-a242-6caabcf3f3da"
 };
 /* ================================ */
 const $ = id => document.getElementById(id);
